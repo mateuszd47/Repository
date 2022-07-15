@@ -1,0 +1,16 @@
+C:\Users\playg\Desktop\New folder\Fruction\obj\Debug\net5.0\Fruction.csproj.AssemblyReference.cache
+C:\Users\playg\Desktop\New folder\Fruction\obj\Debug\net5.0\Fruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\playg\Desktop\New folder\Fruction\obj\Debug\net5.0\Fruction.AssemblyInfoInputs.cache
+C:\Users\playg\Desktop\New folder\Fruction\obj\Debug\net5.0\Fruction.AssemblyInfo.cs
+C:\Users\playg\Desktop\New folder\Fruction\obj\Debug\net5.0\Fruction.csproj.CoreCompileInputs.cache
+C:\Users\playg\Desktop\New folder\Fruction\bin\Debug\net5.0\Fruction.exe
+C:\Users\playg\Desktop\New folder\Fruction\bin\Debug\net5.0\Fruction.deps.json
+C:\Users\playg\Desktop\New folder\Fruction\bin\Debug\net5.0\Fruction.runtimeconfig.json
+C:\Users\playg\Desktop\New folder\Fruction\bin\Debug\net5.0\Fruction.runtimeconfig.dev.json
+C:\Users\playg\Desktop\New folder\Fruction\bin\Debug\net5.0\Fruction.dll
+C:\Users\playg\Desktop\New folder\Fruction\bin\Debug\net5.0\Fruction.pdb
+C:\Users\playg\Desktop\New folder\Fruction\obj\Debug\net5.0\Fruction.dll
+C:\Users\playg\Desktop\New folder\Fruction\obj\Debug\net5.0\refint\Fruction.dll
+C:\Users\playg\Desktop\New folder\Fruction\obj\Debug\net5.0\Fruction.pdb
+C:\Users\playg\Desktop\New folder\Fruction\obj\Debug\net5.0\Fruction.genruntimeconfig.cache
+C:\Users\playg\Desktop\New folder\Fruction\obj\Debug\net5.0\ref\Fruction.dll

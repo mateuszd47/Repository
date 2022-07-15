@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObslugaPlikowTekstowych", "ObslugaPlikowTekstowych.csproj", "{857441B6-EF13-4E1C-A17D-B08A75A605A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{857441B6-EF13-4E1C-A17D-B08A75A605A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857441B6-EF13-4E1C-A17D-B08A75A605A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857441B6-EF13-4E1C-A17D-B08A75A605A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857441B6-EF13-4E1C-A17D-B08A75A605A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A17E3BC-FD05-456D-8485-DE01528F5A0C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\bin\Debug\net5.0\ObslugaPlikowTekstowych.exe
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\bin\Debug\net5.0\ObslugaPlikowTekstowych.deps.json
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\bin\Debug\net5.0\ObslugaPlikowTekstowych.runtimeconfig.json
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\bin\Debug\net5.0\ObslugaPlikowTekstowych.runtimeconfig.dev.json
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\bin\Debug\net5.0\ObslugaPlikowTekstowych.dll
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\bin\Debug\net5.0\ObslugaPlikowTekstowych.pdb
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\obj\Debug\net5.0\ObslugaPlikowTekstowych.csproj.AssemblyReference.cache
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\obj\Debug\net5.0\ObslugaPlikowTekstowych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\obj\Debug\net5.0\ObslugaPlikowTekstowych.AssemblyInfoInputs.cache
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\obj\Debug\net5.0\ObslugaPlikowTekstowych.AssemblyInfo.cs
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\obj\Debug\net5.0\ObslugaPlikowTekstowych.csproj.CoreCompileInputs.cache
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\obj\Debug\net5.0\ObslugaPlikowTekstowych.dll
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\obj\Debug\net5.0\refint\ObslugaPlikowTekstowych.dll
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\obj\Debug\net5.0\ObslugaPlikowTekstowych.pdb
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\obj\Debug\net5.0\ObslugaPlikowTekstowych.genruntimeconfig.cache
+C:\Users\playg\Desktop\New folder\ObslugaPlikowTekstowych\obj\Debug\net5.0\ref\ObslugaPlikowTekstowych.dll
